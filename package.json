@@ -13,10 +13,10 @@
   "devDependencies": {
     "@parcel/transformer-pug": "^2.3.2",
     "@parcel/transformer-sass": "^2.3.2",
+    "bulma": "^0.9.3",
     "parcel": "^2.3.2"
   },
   "dependencies": {
-    "bulma": "^0.9.3",
     "pug": "^3.0.2",
     "sass": "^1.49.9"
   }
